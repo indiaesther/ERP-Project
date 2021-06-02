@@ -97,8 +97,26 @@
 - 회계전표 조회 : 지출, 수입 내역 조회 기능 / 조회된 지출, 수입의 합계 확인 기능
 
 
+## 매출 구현
+### 일별매출현황
+![캡처2](https://user-images.githubusercontent.com/68997381/120417996-c0aee780-c39a-11eb-8dc0-33c00ae6f19f.PNG)
 
 
+### 월별매출현황
+![캡처3](https://user-images.githubusercontent.com/68997381/120418040-d0c6c700-c39a-11eb-8775-d34ab7f25a23.PNG)
+
+
+### 년도별매출현황
+-콤보박스: 직접입력 클릭
+![캡처4](https://user-images.githubusercontent.com/68997381/120418075-db815c00-c39a-11eb-8feb-0542ce9e0e5b.PNG)
+
+
+-콤보박스: 1-4분기 클릭
+![캡처5](https://user-images.githubusercontent.com/68997381/120418084-dd4b1f80-c39a-11eb-8d4f-d61c127bda3e.PNG)
+
+
+콤보박스: 상/하반기 클릭
+![캡처6](https://user-images.githubusercontent.com/68997381/120418088-df14e300-c39a-11eb-99a7-c04ccce41f10.PNG)
 
 
 
