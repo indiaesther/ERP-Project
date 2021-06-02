@@ -33,8 +33,6 @@
 		         group by date_format(sl.occur_date,'%Y-%m')
 		        ) dsum
 
-					
-	
 	</select>
 
 	
