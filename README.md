@@ -99,6 +99,7 @@
 
 ## 나의 결과물: 매출현황 페이지 구현
 기능: 집계기간 기준에 따른 매출 손익통계 분석 및 시각화
+  -Google Chart 이용
 
 ### 일별매출현황
 ![캡처2](https://user-images.githubusercontent.com/68997381/120417996-c0aee780-c39a-11eb-8dc0-33c00ae6f19f.PNG)
