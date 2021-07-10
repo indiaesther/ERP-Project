@@ -31,7 +31,7 @@
 		        and od.deposit_yn='y'
     	  <if test="searchKey!=null and !searchKey.equals('')">
     	 		 and (on_client_cd = #{searchKey} or off_client_cd=#{searchKey})
-		  </if>	       	   
+		  </if>	       	    
 	</select>
 	
 	<!-- 검색날짜 매출 목록 조회 -->
