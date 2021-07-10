@@ -103,7 +103,7 @@
 	               ,ifnull((select sum(amount)
 	                  from tb_order
 	                 where deposit_yn='n'
-	                       and date_format(order_date,'%Y-%m-%d')='2021-05-20'
+	                       and date_format(order_date,'%Y-%m-%d')=#{searchDate}
 	              group by date_format(order_date,'%Y-%m-%d')
 	               ),0) as sum_ar  
 	          from tb_acc_slip sl
